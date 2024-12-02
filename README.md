@@ -1,2 +1,2 @@
-# Excel-Sales-Analytics
-My Excel project on Sales Analysis of AtliQ Hardware
+# Project: Sales and Finance Analytics for AtliQ Hardware
+
